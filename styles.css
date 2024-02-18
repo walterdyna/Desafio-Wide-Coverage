@@ -1,0 +1,84 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+.divMaior {
+  width: 200vh;
+  height: 0vh;
+}
+
+.divEsquerda {
+  display: inline-block;
+  width: 40%;
+  padding: 10px;
+  height: 97vh;
+}
+
+.divDireita {
+  display: inline-block;
+  width: 50%;
+  position: absolute;
+}
+
+img {
+  position: relative;
+  top: 10%;
+  left: 50px;
+  width: 400px;
+}
+
+h1 {
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 40px;
+  text-align: left;
+  width: 382px;
+  color: #161a49;
+  margin-top: 160px;
+}
+
+p {
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 30px;
+  text-align: left;
+  width: 493px;
+  color: #4b505a;
+  margin: 45px 0;
+}
+
+.learn-more {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 27px;
+  color: #6fbf44;
+  width: 112px;
+}
+
+.header {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  margin: 40px 25px;
+  text-decoration: none;
+}
+
+button {
+  background-color: #4cb538;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 1px;
+  color: #ffffff;
+  border: none;
+  border-radius: 10px;
+  width: 100px;
+  height: 40px;
+}
+
+@media screen and (max-width:900px){
+    
+}
