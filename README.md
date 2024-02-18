@@ -1,22 +1,38 @@
-Easy Shopping Via Mobile
-Este é um projeto fictício chamado Easy Shopping Via Mobile, que demonstra um layout responsivo para uma aplicação de compras online via dispositivos móveis. O objetivo deste projeto é mostrar como criar um design que se adapte a diferentes tamanhos de tela, proporcionando uma experiência de usuário consistente e agradável em dispositivos móveis.
+
+Wide Coverage Location
+
+Este é um projeto fictício desenvolvido para demonstrar a responsividade em páginas web. O objetivo é apresentar como a página se adapta a diferentes tamanhos de tela, garantindo uma boa experiência de usuário em dispositivos móveis e desktops.
+
+
 
 Tecnologias Utilizadas
-HTML
-CSS
-Google Fonts (fonte Oswald)
-Estrutura do Projeto
-O projeto consiste em uma página HTML com duas seções principais: uma seção esquerda com informações sobre o serviço e um botão de chamada para a ação, e uma seção direita com um menu de navegação e uma imagem ilustrativa.
+
+HTML5
+
+CSS3
+
+Fonte externa: Poppins
+
+
+Funcionalidades Principais
+
+Navegação: Links para diferentes seções da página estão disponíveis no cabeçalho.
+Imagem Responsiva: A imagem principal se ajusta conforme o tamanho da tela.
+Layout Flexível: As seções se adaptam para ocupar o espaço disponível de forma harmoniosa.
+Botão de Call-to-Action: Um botão de "Sign up" está disponível para incentivar a interação do usuário.
+
 
 Responsividade
-O layout foi desenvolvido com foco na responsividade, utilizando media queries para ajustar o design conforme o tamanho da tela do dispositivo. As principais mudanças de layout ocorrem em duas etapas:
 
-Tamanho médio de tela (max-width: 900px): Neste ponto, o layout se ajusta para ocupar a largura total da tela e o conteúdo da seção esquerda é centralizado. O menu de navegação é removido para economizar espaço.
-Tamanho pequeno de tela (max-width: 450px): Aqui, a imagem ilustrativa é ajustada para ocupar a largura total da tela e o texto da seção esquerda é centralizado e reduzido para melhorar a legibilidade em telas menores.
+O layout foi desenvolvido para se ajustar a diferentes tamanhos de tela, utilizando media queries para definir regras específicas para diferentes dispositivos. No tamanho de tela menor que 900px, a navegação é ocultada e a disposição dos elementos é alterada para uma melhor experiência em dispositivos móveis.
+
+
+
+Próximos Passos
+
+Este projeto pode ser expandido com mais conteúdo e interatividade, além de otimizações adicionais para melhorar a experiência do usuário em diferentes dispositivos.
+
+
 Conclusão
-Este projeto demonstra a importância da responsividade no design de interfaces para dispositivos móveis. Ao criar layouts responsivos, é possível garantir uma experiência de usuário consistente e eficaz em diferentes dispositivos, melhorando assim a usabilidade e a satisfação do usuário.
 
-
-
-
-
+A responsividade é uma prática essencial no desenvolvimento web moderno, garantindo que os sites sejam acessíveis e utilizáveis em diferentes dispositivos. Este projeto demonstra como é possível criar layouts flexíveis e adaptáveis, proporcionando uma experiência consistente para os usuários.

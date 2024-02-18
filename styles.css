@@ -79,6 +79,53 @@ button {
   height: 40px;
 }
 
-@media screen and (max-width:900px){
-    
+@media screen and (max-width: 900px) {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  .divMaior {
+    width: 60vh;
+    height: 0vh;
+  }
+
+  .header {
+    display: none;
+  }
+
+  .divDireita {
+    display: block;
+    position: absolute;
+    top: 0;
+    text-align: center;
+    width: 60vh;
+  }
+
+  img {
+    display: block;
+    flex-direction: column-reverse;
+    position: fixed;
+    margin-top: 30%;
+    width: 450px;
+  }
+
+  .divEsquerda {
+    display: flex;
+    width: 60vh;
+    margin-left: 420px;
+  }
+
+  h1 {
+    text-align: center;
+    margin-left: 90px;
+  }
+
+  p {
+    text-align: center;
+    margin-left: 35px;
+  }
 }
+
+
